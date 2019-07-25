@@ -38,7 +38,9 @@ https://developers.google.com/sheets/api/quickstart/nodejs
 
 As you can see the code is pretty much the same from step 3 of the tutorial there. The only difference is 
 fs.readFile('credentials.json', (err, content) => {
+
 becomes 
+
 fs.readFile('client_id.json', (err, content) => Which is included in this project
 
 Make a google sheets file
