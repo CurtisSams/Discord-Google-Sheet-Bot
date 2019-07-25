@@ -13,9 +13,9 @@ Discord developer portal access
 
 Google API access (Google API does charge for its calls, please look into it before signing up)
 
-Node.js 
+Node.js (In discord guide)
 
-Discord.js 
+Discord.js (In discord guide)
 
 eslintrc.json
 
