@@ -3,6 +3,7 @@ This was designed to read peoples DKP(score) from a google speadsheet.
 
 This was mostly an adaptation of the developerjs tutorial bot and then throwing in the googlesheets access tutorial, though with a few tweaks to run off an existing google api account. Where you will need to place your details I have shown in the code itself. 
 
+
 Requirements
 
 Discord developer portal access
