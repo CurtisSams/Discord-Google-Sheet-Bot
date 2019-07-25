@@ -1,5 +1,5 @@
 {"web":
-    {"client_id":"THIS IS THE OAUTH 2.0 CLIENT ID YOU NEED TO GET FROM GOOGLE API'S (SAME PALCE AS YOUR API KEY"),
+    {"client_id":"THIS IS THE OAUTH 2.0 CLIENT ID YOU NEED TO GET FROM GOOGLE API'S (SAME PALCE AS YOUR API KEY)",
      "project_id":"WHATEVER YOUR PROJECT NAME IS",
      "auth_uri":"https://accounts.google.com/o/oauth2/auth",
      "token_uri":"https://oauth2.googleapis.com/token",
