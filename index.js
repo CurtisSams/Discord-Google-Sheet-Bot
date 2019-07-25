@@ -7,7 +7,8 @@ const fs = require('fs');
 const readline = require('readline');
 const { google } = require('googleapis');
 
-// If anyone wants to teach me what these lines do exactly then drop a comment! I left the tutorials comments here but 
+// I left the tutorials comments here. Pretty much a copy paste from the google node.js guide
+
 // If modifying these scopes, delete token.json.
 const SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly'];
 // The file token.json stores the user's access and refresh tokens, and is
@@ -69,6 +70,7 @@ function getNewToken(oAuth2Client, callback) {
 }
 /**
  * When you dont have any function in line21 then things go wrong. So this was the example. It is left here because it never seems to do anything except prevent a crash!!! 
+ * 
  * Prints the names and majors of students in a sample spreadsheet:
  * @see https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit
  * @param {google.auth.OAuth2} auth The authenticated Google OAuth client.
